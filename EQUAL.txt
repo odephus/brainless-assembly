@@ -1,0 +1,23 @@
+Komut,Açılımı,Şart (a ve b ilişkisi),Türkçe Meali
+je,Jump if Equal,a==b,İki sayı birbirine eşitse zıpla
+jne,Jump if Not Equal,a=b,İki sayı birbirine eşit değilse zıpla
+
+
+Komut,Açılımı,Şart (a ve b ilişkisi),Türkçe Meali
+jg,Jump if Greater,a>b,Birinci sayı büyükse zıpla
+jge,Jump if Greater or Equal,a≥b,Birinci sayı büyük veya eşitse zıpla
+jl,Jump if Less,a<b,Birinci sayı küçükse zıpla
+jle,Jump if Less or Equal,a≤b,Birinci sayı küçük veya eşitse zıpla
+
+
+
+Komut,Açılımı,Şart (a ve b ilişkisi),Türkçe Meali
+ja,Jump if Above,a>b,Birinci sayı üstündeyse (büyükse) zıpla
+jae,Jump if Above or Equal,a≥b,Birinci sayı üstünde veya eşitse zıpla
+jb,Jump if Below,a<b,Birinci sayı altındaysa (küçükse) zıpla
+jbe,Jump if Below or Equal,a≤b,Birinci sayı altında veya eşitse zıpla
+
+
+
+Komut,Açılımı,Şart,Türkçe Meali
+jmp,Jump,Yok,"Şarta şurta bakma, doğrudan belirtilen etikete ışınlan"
